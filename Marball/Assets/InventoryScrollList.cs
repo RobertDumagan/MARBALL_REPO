@@ -14,7 +14,6 @@ public class InventoryScrollList : MonoBehaviour
 {
     public List<Item> itemList;
     public Transform contentPanel;
-    public InventoryScrollList otherInventory;
     public SimpleObjectPool buttonObjectPool;
 
     // Start is called before the first frame update
